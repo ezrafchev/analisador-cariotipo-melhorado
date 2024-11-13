@@ -27,7 +27,7 @@ Este projeto é um analisador de cariótipo automatizado desenvolvido em Python.
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/ezrafchev/analisador-cariotipo.git
+   git clone https://github.com/ezrafchev/analisador-cariotipo-melhorado.git
    cd analisador-cariotipo
    ```
 
